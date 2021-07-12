@@ -1,0 +1,13 @@
+@layer base {
+  .cmp-title {
+    @apply text-fill;
+    text-align: var(--text-align);
+    font-size: var(--font-size);
+  }
+  .cmp-title__text {
+  }
+  .cmp-title__link {
+    @apply text-fill;
+    @apply hover:text-fill-hover;
+  }
+}

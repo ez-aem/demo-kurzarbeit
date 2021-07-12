@@ -1,0 +1,10 @@
+@layer components {
+  .text.counter-blocks .cmp-text ol li:before {
+    content: counter(li);
+    @apply absolute top-0 left-0 bg-light-primary-fill text-light-primary-inverted flex items-center justify-center w-12 h-12;
+  }
+  .text.counter-blocks .cmp-text ol li {
+    counter-increment: li;
+    @apply list-none bg-light-secondary-fill text-light-primary-inverted mb-4 relative p-6 pl-20;
+  }
+}

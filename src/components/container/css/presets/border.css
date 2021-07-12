@@ -1,0 +1,6 @@
+@layer components {
+  .container.border-2 {
+    border: 2px solid;
+    @apply border-light-primary-fill;
+  }
+}
