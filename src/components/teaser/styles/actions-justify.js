@@ -1,4 +1,4 @@
-const { CQStyle, CQStyleGroup } = require("../../../../aem-blueprint/styles/index")
+const { CQStyle, CQStyleGroup } = require("../../../../ez-aem/styles/index")
 
 const styles = new CQStyleGroup({ 
   "@cq:styleGroupLabel": "Actions Alignment", 

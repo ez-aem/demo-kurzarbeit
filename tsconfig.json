@@ -9,7 +9,7 @@
     "allowSyntheticDefaultImports": true,
     "sourceMap": true,
     "paths": {
-      "@aem-blueprint/*": ["./aem-blueprint/*"]
+      "@ez-aem/*": ["./ez-aem/*"]
     },
     "resolveJsonModule": true,
     "esModuleInterop": true

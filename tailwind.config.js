@@ -1,5 +1,5 @@
 module.exports = {
-  presets: [require("./aem-blueprint/tailwind.config")],
+  presets: [require("./ez-aem/tailwind.config")],
   theme: {
     extend: {
       fontSize: {

@@ -1,4 +1,4 @@
-const { CQStyle, CQStyleGroup } = require("../../../../aem-blueprint/styles/index")
+const { CQStyle, CQStyleGroup } = require("../../../../ez-aem/styles/index")
 
 const styles = [25,50,75,"icon","icon-lg","icon-xl"];
 

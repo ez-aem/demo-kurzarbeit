@@ -1,4 +1,4 @@
-const { CQStyleGroups } = require("../../../../aem-blueprint/styles/index")
+const { CQStyleGroups } = require("../../../../ez-aem/styles/index")
 
 module.exports = new CQStyleGroups([
   require("./presets"),
