@@ -47,6 +47,7 @@ module.exports = {
       "./src/template/policies.json",
       "./src/components/**/**/*.js",
       "./src/components/**/**/*.css",
+      "./src/components/**/*.html",
       "./src/site/js/*.js",
       "./src/site/css/*.css",
       "./src/styles/index.json",
